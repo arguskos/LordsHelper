@@ -1,4 +1,4 @@
-# hello
+# flutter_fun
 
 A new Flutter project.
 
